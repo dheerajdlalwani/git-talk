@@ -1,6 +1,10 @@
 a = 5
 b = 5
 
+def some_new_function:
+    return "some value"
+
+
 def add(a, b):
     return a + b
 
