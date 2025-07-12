@@ -1,7 +1,7 @@
 a = 5
 b = 5
 
-def some_new_function:
+def some_other_function:
     return "some value"
 
 
