@@ -5,8 +5,8 @@ def some_other_function:
     return "some value"
 
 
-def addition(a, b):
-    return a + b
+def addition(a, b, c):
+    return a + b + c
 
 def sub(a, b):
     return a-b
